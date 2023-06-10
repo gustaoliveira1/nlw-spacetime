@@ -31,4 +31,4 @@ npm install
 npm run dev
 ```
 
-I also had the front end of the project but it was lost by a bug in git
+I also had the front end of the project but it was lost by a bug in git :c
